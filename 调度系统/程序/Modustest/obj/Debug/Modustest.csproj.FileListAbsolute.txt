@@ -1,0 +1,217 @@
+C:\Users\Administrator\Desktop\Modustest\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Modustest\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modustest（功能OK，待增加响应超时）\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\modbus服务端\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.exe.config
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.exe
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.pdb
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.exe
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\bin\Debug\Modustest.pdb
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.Form1.resources
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+D:\诚和自动化\软件系统\modbus\Modustest（基本功能ok，待增加UDP，232转发和选择模式）\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.Form2.resources
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.Form3.resources
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest（232模式）\Modustest\obj\Debug\Modustest.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.Form2.resources
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.Form3.resources
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modustest显示\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.Form2.resources
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.Form3.resources
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\bin\Debug\Modustest.exe.config
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\bin\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\bin\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.exe
+C:\Users\Administrator\Desktop\Modustest显示2\Modustest\obj\Debug\Modustest.pdb
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\806\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\log4net.dll
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.UI.dll
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\ZedGraph.dll
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.World.dll
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.UI.pdb
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.UI.xml
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\ZedGraph.xml
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.World.pdb
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\Emgu.CV.World.xml
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\诚和自动化\项目\806转运叉车两台\程序\调度系统\806调度系统\Modustest\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\bin\Debug\AGV调度系统.exe.config
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\bin\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\bin\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\806\806现场程序合集\调度\806调度系统1-20\Modustest\obj\Debug\AGV调度系统.pdb
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\bin\Debug\log4net.dll
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+\\Win-b7k3avdd70k\agv调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+D:\工作\806\第三次\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\工作\806\第三次\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+D:\工作\806\第三次\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+D:\工作\806\第三次\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+E:\新建文件夹\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+E:\新建文件夹\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+E:\新建文件夹\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\GenerateResource.read.1.tlog
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\GenerateResource.write.1.tlog
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+E:\新建文件夹\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+E:\806调度系统\Modustest\obj\Debug\ResolveAssemblyReference.cache
+E:\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+E:\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+E:\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+E:\806调度系统\Modustest\obj\Debug\Modustest.Robot.resources
+E:\806调度系统\Modustest\obj\Debug\GenerateResource.read.1.tlog
+E:\806调度系统\Modustest\obj\Debug\GenerateResource.write.1.tlog
+E:\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+E:\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+E:\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+E:\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+E:\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Robot.resources
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+D:\工作\806\第三次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Robot.resources
+C:\Users\Administrator\Desktop\第四次\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.Robot.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\806调度系统\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\程序\4 806 调度系统程序\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻806\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\bin\Debug\AGV调度系统.exe.config
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\AGV调度系统.exe
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\AGV调度系统.pdb
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\bin\Debug\AGV调度系统.exe
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\bin\Debug\AGV调度系统.pdb
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.AGVSensor.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.Form1.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.Robot.resources
+E:\My job 资料\3 my job\0 各种agv车控制程序及资料\806新叉车\2 第四次 进攻8061\程序\4 806 调度系统程序\806调度系统\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\github\806\调度系统程序\Modustest\bin\Debug\AGV调度系统.exe.config
+D:\github\806\调度系统程序\Modustest\bin\Debug\AGV调度系统.exe
+D:\github\806\调度系统程序\Modustest\bin\Debug\AGV调度系统.pdb
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.csprojResolveAssemblyReference.cache
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.AGVSensor.resources
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.Form1.resources
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.Properties.Resources.resources
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.Robot.resources
+D:\github\806\调度系统程序\Modustest\obj\Debug\Modustest.csproj.GenerateResource.Cache
+D:\github\806\调度系统程序\Modustest\obj\Debug\AGV调度系统.exe
+D:\github\806\调度系统程序\Modustest\obj\Debug\AGV调度系统.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vg ver="1" name="EV_DISP_BAR004.bg" type="bmp" width="101" height="101" discription="EV_DISP_BAR004.bg" color="0xffffff" transparent="no">
+	<state id="3">
+		<draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="100" pos_ey="100" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" lock_status="0" isgroupmember="no" src="..\image\EV_DISP_BAR004_STATE3.bmp"/>
+	</state>
+	<state id="2">
+		<draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="100" pos_ey="100" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" lock_status="0" isgroupmember="no" src="..\image\EV_DISP_BAR004_STATE2.bmp"/>
+	</state>
+	<state id="1">
+		<draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="100" pos_ey="100" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" lock_status="0" isgroupmember="no" src="..\image\EV_DISP_BAR004_STATE1.bmp"/>
+	</state>
+	<state id="0">
+		<draw name="" type="image" pos_sx="0" pos_sy="0" pos_ex="100" pos_ey="100" penwidth="1" penstyle="6" pencolor="0xeeeeaf" fillcolor="0xfae6e6" fill="color" lock_status="0" isgroupmember="no" src="..\image\EV_DISP_BAR004_STATE0.bmp"/>
+	</state>
+</vg>
